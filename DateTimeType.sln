@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatNow", "WhatNow\WhatNow.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvailableWhen", "AvailableWhen\AvailableWhen.csproj", "{B23E9256-8DDE-42F7-A6E2-A188CB871D74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetTheCalendar", "SetTheCalendar\SetTheCalendar.csproj", "{F2446317-BBAB-441A-8BD2-FC74B8BE948C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B23E9256-8DDE-42F7-A6E2-A188CB871D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23E9256-8DDE-42F7-A6E2-A188CB871D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23E9256-8DDE-42F7-A6E2-A188CB871D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2446317-BBAB-441A-8BD2-FC74B8BE948C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2446317-BBAB-441A-8BD2-FC74B8BE948C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2446317-BBAB-441A-8BD2-FC74B8BE948C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2446317-BBAB-441A-8BD2-FC74B8BE948C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
